@@ -16,7 +16,8 @@ Execute Solution:
 run below command in project directory
 
 `java -jar target/drone-delivery-0.0.1-SNAPSHOT.jar {filePath}`
-`java -jar target/drone-delivery-0.0.1-SNAPSHOT.jar c:\orders.txt`
+
+example : `java -jar target/drone-delivery-0.0.1-SNAPSHOT.jar c:\orders.txt`
 
 Executing unit tests only:
 
