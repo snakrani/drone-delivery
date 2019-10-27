@@ -2,7 +2,9 @@
 Java based project to implement drone-carried deliveries to customers in a small town. 
 
 2 Tools Used 
+
 Language : `Java 8`.
+
 Unit Tesing and Code Coverage:  `Junit,Jacoco Plugin for Code Coverage`.
 Code Quality: `Sonar`.
 API-DOCS: `Maven Javadoc Plugin`.  
