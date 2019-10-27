@@ -9,7 +9,7 @@ API-DOCS: `Maven Javadoc Plugin`.
 Build Solution:
 
 `mvn clean install`(At command line) 
--> generates the fat jar(with dependencies) in home folder(copied from target folder).
+-> generates the fat jar(with dependencies) in target foler
 
 Execute Solution:
 
