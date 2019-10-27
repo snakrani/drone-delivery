@@ -1,13 +1,13 @@
-#1 Project Description:
+1 Project Description:
 Java based project to implement drone-carried deliveries to customers in a small town. 
 
-#2 Tools Used 
+2 Tools Used 
 Language : `Java 8`.
 Unit Tesing and Code Coverage:  `Junit,Jacoco Plugin for Code Coverage`.
 Code Quality: `Sonar`.
 API-DOCS: `Maven Javadoc Plugin`.  
 
-#3 Build Solution:
+3 Build Solution:
 `mvn clean install`(At command line) -> generates the fat jar(with dependencies) in home folder(copied from target folder).
 
 #4 Execute Solution:
