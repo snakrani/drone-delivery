@@ -23,9 +23,7 @@ Executing unit tests only:
 
 run below command to run unit tests.
 
-`mvn test` > Runs the unit tests and displays test results.
-
-Also generates the `Code Coverage Report`: Can be accessible from `<project directory>\target\site\jacoco\index.html`(open in browser)
+`mvn test` > Runs the unit tests and displays test results. this command Also generates the `Code Coverage Report`: Can be accessible from `<project directory>\target\site\jacoco\index.html`(open in browser)
 
 Accessing API Docs
 
