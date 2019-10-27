@@ -6,11 +6,15 @@ Unit Tesing and Code Coverage:  `Junit,Jacoco Plugin for Code Coverage`.
 Code Quality: `Sonar`.
 API-DOCS: `Maven Javadoc Plugin`.  
 
-#3 Build Solution:
-`mvn clean install`(At command line) -> generates the fat jar(with dependencies) in home folder(copied from target folder).
+Build Solution:
 
-#4 Execute Solution:
+`mvn clean install`(At command line) 
+-> generates the fat jar(with dependencies) in home folder(copied from target folder).
+
+Execute Solution:
+
 run below command in project directory
+
 `java -jar target/drone-delivery-0.0.1-SNAPSHOT.jar {filePath}`
 `java -jar target/drone-delivery-0.0.1-SNAPSHOT.jar c:\orders.txt`
 
