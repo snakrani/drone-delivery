@@ -18,12 +18,15 @@ run below command in project directory
 `java -jar target/drone-delivery-0.0.1-SNAPSHOT.jar {filePath}`
 `java -jar target/drone-delivery-0.0.1-SNAPSHOT.jar c:\orders.txt`
 
-#5 Executing unit tests only:
+Executing unit tests only:
+
 run below command to run unit tests.
+
 `mvn test` > Runs the unit tests and displays test results.
+
 Also generates the `Code Coverage Report`: Can be accessible from `<project directory>\target\site\jacoco\index.html`(open in browser)
 
-#6 Accessing API Docs
+Accessing API Docs
 Step #5 , generates the `JavaDocs` and can be accessed `<project directory>\target\apiDocs\index.html`(open in browser) 
  
 #7 run sonar
