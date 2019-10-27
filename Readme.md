@@ -29,7 +29,7 @@ Also generates the `Code Coverage Report`: Can be accessible from `<project dire
 
 Accessing API Docs
 
-generates the `JavaDocs` and can be accessed `<project directory>\target\apiDocs\index.html`(open in browser) 
+maven build generates  java  docs and  `JavaDocs` and can be accessed `<project directory>\target\apiDocs\index.html`(open in browser) 
  
 run sonar
 
