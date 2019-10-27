@@ -28,12 +28,14 @@ run below command to run unit tests.
 Also generates the `Code Coverage Report`: Can be accessible from `<project directory>\target\site\jacoco\index.html`(open in browser)
 
 Accessing API Docs
-Step #5 , generates the `JavaDocs` and can be accessed `<project directory>\target\apiDocs\index.html`(open in browser) 
+
+generates the `JavaDocs` and can be accessed `<project directory>\target\apiDocs\index.html`(open in browser) 
  
-#7 run sonar
+run sonar
+
 Start sonar server and run mvn sonar:sonar
 
-#8 My Understanding and assumptions:
+My Understanding and assumptions:
 1. Drones has no down time and once order reached, Drone starts immediately picking new order. 
 2. Order placed in between 10 PM and 6 PM will have Detractors scores.
 3. It will be faster if, Drone can take multiple items and deliver items of the same route together.
